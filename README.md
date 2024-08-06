@@ -1,10 +1,10 @@
-#Bank Virtual Assistant - DIO Bootcamp Java
+# Bank Virtual Assistant - DIO Bootcamp Java
 
-# 📃Description
+## 📃Description
 
 The .java file contains a code that reads and processes user fictional bank data and returns it on the screen.
 
-# 🖥️How To Run The Program?
+## 🖥️How To Run The Program?
 
 To run and check my code, you will need to...
 
@@ -18,12 +18,12 @@ III. Clone this repository into the selected work folder by typing:
 
 IV. Open the folder on a IDE by your choice.
 
-# 💡Program's Logic
+## 💡Program's Logic
 
 To achieve the goal, concepts of OOP paradigm were used (classes, objects and methods).
 
-# 📤Final Output
+## 📤Final Output
 
-User fictional bank data.
+The program's final output is a .xlsx file (named "Resultado - Taxa de Limpeza") that basically copies the original one (named "Parametros - Taxa de Limpeza") but alters its first sheet by inserting each immobile rent value. 
 
 
